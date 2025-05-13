@@ -1,2 +1,2 @@
 # JavaTraining
-This repository contains theoretical and practiced notes.
+This repository contains theoretical notes.
